@@ -1,0 +1,11 @@
+img{
+    transition: all 0.2s ease-in-out;
+  }
+  
+  img:hover {
+    filter: brightness(50%);
+  }
+
+  body svg:hover{
+    cursor: pointer;
+  }
