@@ -42,14 +42,14 @@ nav a:hover {
 }
 
 .dropPic{
-    max-width: 50rem !important;
+    max-width: 50% !important;
     background-color:rgb(118, 172, 254);
     padding: 10px 10px;
     border-radius: 20px;
 }
 
 .dropPic2{
-    max-width: 25rem !important;
+    max-width: 25% !important;
     background-color:rgb(118, 172, 254);
     padding: 10px 10px;
     border-radius: 20px;
